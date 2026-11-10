@@ -19,3 +19,7 @@ local.properties
 
 # IDE
 .idea/.name
+.idea/material_theme_project_new.xml
+
+# Saída acidental de terminal
+/adb
